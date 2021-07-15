@@ -26,3 +26,5 @@ VOCABULAIRE
 
     petites lettres à côté du nom du fichier:
     -u : untracked => GIT ne prend pas en compte ce fichier
+    -a : added => nouveau fichier ajouté à l'index
+    -m : modified => fichier déjà tracké par GIT et qui a été modifié depuis sa dernière version
