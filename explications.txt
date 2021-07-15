@@ -20,3 +20,9 @@ LIGNES DE COMMANDE
 VOCABULAIRE
 
     -repository : dépôt GIT
+    staging area= index: l'endroit oùse trouvent les fichiers après avoir exécuté la commande git add => ces fichiers sont en attente de commit
+    commit: version du projet
+    commiter: céer une version du projet
+
+    petites lettres à côté du nom du fichier:
+    -u : untracked => GIT ne prend 
