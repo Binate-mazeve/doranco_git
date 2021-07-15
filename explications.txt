@@ -25,4 +25,4 @@ VOCABULAIRE
     commiter: céer une version du projet
 
     petites lettres à côté du nom du fichier:
-    -u : untracked => GIT ne prend 
+    -u : untracked => GIT ne prend pas en compte ce fichier
